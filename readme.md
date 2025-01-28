@@ -1,5 +1,3 @@
-#chai aor backend project
+This is a collection of all the things that i have done while i was attending the course by Chai aor Code backend Series by Hitesh Chaudhary.
 
-mondodb atlas pass - pxuaNzjDZGb96p1H
- " - username : om, pass - om123
- " - compass string : mongodb+srv://omshukla2493:<db_password>@youtube.e8stv.mongodb.net/
+This includes the backend portion of the "VideoTube" app that i made while attending the lectures.
